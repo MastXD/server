@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../1844"
+		},
+		{
+			"path": "../../../1649A"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "1842"
+	}
+}
